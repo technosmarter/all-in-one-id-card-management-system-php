@@ -44,15 +44,17 @@
 
 <hr>
 
-<h2>🪪 6 Multi-Industry ID Card Templates (2 Cards Per Row Showcase)</h2>
+<h2>🪪 6 Multi-Industry ID Card Templates </h2>
 <p>This <strong>ID Card Management System in PHP MySQL</strong> fully supports multiple card orientations, including standard CR80 Vertical, CR80 Horizontal, and large 3x4 Inch event badge layouts. Below is a showcase of 6 industry-ready templates created with the platform (displayed 2 cards per row):</p>
+
+
 
 <!-- 2-COLUMN CLEAN TABLE FOR 6 ID CARD TEMPLATES -->
 <table width="100%" cellspacing="0" cellpadding="15" style="border-collapse: collapse; border: none;">
   <!-- ROW 1: Card 1 & Card 2 -->
   <tr>
     <td width="50%" align="center" valign="top" style="border: none; background: #0f172a; padding: 20px; border-radius: 12px;">
-      <img src="PASTE_SCHOOL_ID_CARD_IMAGE_URL" alt="School and College Student ID Card Template in PHP" width="100%" style="display: block; max-width: 340px; height: auto; border-radius: 8px;">
+      <img src="https://github.com/user-attachments/assets/98696d30-d7e1-44a1-b9bd-40a670d4b98d" alt="School and College Student ID Card Template in PHP" width="100%" style="display: block; max-width: 340px; height: auto; border-radius: 8px;">
       <h3 style="color: #f8fafc; margin: 12px 0 4px 0;">1. School &amp; Student ID Card</h3>
       <p style="color: #94a3b8; font-size: 14px; margin: 0;">Tailored for schools, colleges, and training institutes featuring admission numbers, class details, date of birth, blood group, barcode, and QR verification.</p>
     </td>
