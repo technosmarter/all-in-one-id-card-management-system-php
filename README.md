@@ -62,7 +62,7 @@
       <p style="color: #38bdf8; font-weight: bold; font-size: 13px; margin: 8px 0 0 0;">[ FRONT SIDE ]</p>
     </td>
     <td width="50%" align="center" valign="top" style="background: #0f172a; padding: 20px; border-radius: 0 0 12px 0;">
-      <img src="PASTE_SCHOOL_BACK_IMAGE_URL" alt="School Student ID Card Back" width="100%" style="display: block; max-width: 260px; height: auto; border-radius: 8px;">
+      <img src="https://github.com/user-attachments/assets/98696d30-d7e1-44a1-b9bd-40a670d4b98d" alt="School Student ID Card Back" width="100%" style="display: block; max-width: 260px; height: auto; border-radius: 8px;">
       <p style="color: #38bdf8; font-weight: bold; font-size: 13px; margin: 8px 0 0 0;">[ BACK SIDE ]</p>
     </td>
   </tr>
@@ -77,11 +77,11 @@
   </tr>
   <tr>
     <td width="50%" align="center" valign="top" style="background: #0f172a; padding: 20px; border-radius: 0 0 0 12px;">
-      <img src="PASTE_OFFICE_FRONT_IMAGE_URL" alt="Corporate Employee ID Card Front" width="100%" style="display: block; max-width: 260px; height: auto; border-radius: 8px;">
+      <img src="https://github.com/user-attachments/assets/b8216909-e28d-40f3-81f1-b15c4cf77d64" alt="Corporate Employee ID Card Front" width="100%" style="display: block; max-width: 260px; height: auto; border-radius: 8px;">
       <p style="color: #38bdf8; font-weight: bold; font-size: 13px; margin: 8px 0 0 0;">[ FRONT SIDE ]</p>
     </td>
     <td width="50%" align="center" valign="top" style="background: #0f172a; padding: 20px; border-radius: 0 0 12px 0;">
-      <img src="PASTE_OFFICE_BACK_IMAGE_URL" alt="Corporate Employee ID Card Back" width="100%" style="display: block; max-width: 260px; height: auto; border-radius: 8px;">
+      <img src="https://github.com/user-attachments/assets/ea18db1d-5164-40fa-9c69-512c72dc73ab" alt="Corporate Employee ID Card Back" width="100%" style="display: block; max-width: 260px; height: auto; border-radius: 8px;">
       <p style="color: #38bdf8; font-weight: bold; font-size: 13px; margin: 8px 0 0 0;">[ BACK SIDE ]</p>
     </td>
   </tr>
@@ -91,16 +91,16 @@
   <tr>
     <td colspan="2" style="background: #1e293b; padding: 15px; border-radius: 12px 12px 0 0; text-align: center;">
       <h3 style="color: #f8fafc; margin: 0;">3. Hospital, Doctor &amp; Clinic ID Card (Front &amp; Back View)</h3>
-      <p style="color: #94a3b8; font-size: 13px; margin: 5px 0 0 0;">Professional horizontal layout built for medical staff, doctors, and nurses displaying specializations, employee IDs, and emergency contact instructions.</p>
+      <p style="color: #94a3b8; font-size: 13px; margin: 5px 0 0 0;">Professional layout built for medical staff, doctors, and nurses displaying specializations, employee IDs, and emergency contact instructions.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center" valign="top" style="background: #0f172a; padding: 20px; border-radius: 0 0 0 12px;">
-      <img src="PASTE_HOSPITAL_FRONT_IMAGE_URL" alt="Hospital Doctor ID Card Front" width="100%" style="display: block; max-width: 260px; height: auto; border-radius: 8px;">
+      <img src="https://github.com/user-attachments/assets/e178b4ee-11b4-469f-9aea-140772b6b3e6" alt="Hospital Doctor ID Card Front" width="100%" style="display: block; max-width: 260px; height: auto; border-radius: 8px;">
       <p style="color: #38bdf8; font-weight: bold; font-size: 13px; margin: 8px 0 0 0;">[ FRONT SIDE ]</p>
     </td>
     <td width="50%" align="center" valign="top" style="background: #0f172a; padding: 20px; border-radius: 0 0 12px 0;">
-      <img src="PASTE_HOSPITAL_BACK_IMAGE_URL" alt="Hospital Doctor ID Card Back" width="100%" style="display: block; max-width: 260px; height: auto; border-radius: 8px;">
+      <img src="https://github.com/user-attachments/assets/93a8cd9d-2de3-420e-b0ab-48048bdfd413" alt="Hospital Doctor ID Card Back" width="100%" style="display: block; max-width: 260px; height: auto; border-radius: 8px;">
       <p style="color: #38bdf8; font-weight: bold; font-size: 13px; margin: 8px 0 0 0;">[ BACK SIDE ]</p>
     </td>
   </tr>
@@ -110,16 +110,16 @@
   <tr>
     <td colspan="2" style="background: #1e293b; padding: 15px; border-radius: 12px 12px 0 0; text-align: center;">
       <h3 style="color: #f8fafc; margin: 0;">4. Gym &amp; Fitness Membership Card (Front &amp; Back View)</h3>
-      <p style="color: #94a3b8; font-size: 13px; margin: 5px 0 0 0;">Sleek 3x4 inch badge format designed for fitness centers and sports clubs highlighting membership IDs, VIP plan tiers, timings, and expiry dates.</p>
+      <p style="color: #94a3b8; font-size: 13px; margin: 5px 0 0 0;">Sleek badge format designed for fitness centers and sports clubs highlighting membership IDs, VIP plan tiers, timings, and expiry dates.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center" valign="top" style="background: #0f172a; padding: 20px; border-radius: 0 0 0 12px;">
-      <img src="PASTE_GYM_FRONT_IMAGE_URL" alt="Gym Membership Card Front" width="100%" style="display: block; max-width: 260px; height: auto; border-radius: 8px;">
+      <img src="https://github.com/user-attachments/assets/4c065245-3678-40d6-baad-c16fa45490a7" alt="Gym Membership Card Front" width="100%" style="display: block; max-width: 260px; height: auto; border-radius: 8px;">
       <p style="color: #38bdf8; font-weight: bold; font-size: 13px; margin: 8px 0 0 0;">[ FRONT SIDE ]</p>
     </td>
     <td width="50%" align="center" valign="top" style="background: #0f172a; padding: 20px; border-radius: 0 0 12px 0;">
-      <img src="PASTE_GYM_BACK_IMAGE_URL" alt="Gym Membership Card Back" width="100%" style="display: block; max-width: 260px; height: auto; border-radius: 8px;">
+      <img src="https://github.com/user-attachments/assets/9c41eca9-be6b-4c0a-b384-9b85e1f978f7" alt="Gym Membership Card Back" width="100%" style="display: block; max-width: 260px; height: auto; border-radius: 8px;">
       <p style="color: #38bdf8; font-weight: bold; font-size: 13px; margin: 8px 0 0 0;">[ BACK SIDE ]</p>
     </td>
   </tr>
@@ -134,36 +134,35 @@
   </tr>
   <tr>
     <td width="50%" align="center" valign="top" style="background: #0f172a; padding: 20px; border-radius: 0 0 0 12px;">
-      <img src="PASTE_PRESS_FRONT_IMAGE_URL" alt="Press Reporter ID Card Front" width="100%" style="display: block; max-width: 260px; height: auto; border-radius: 8px;">
+      <img src="https://github.com/user-attachments/assets/84a9e451-37c8-4f73-ad97-30945da26e2f" alt="Press Reporter ID Card Front" width="100%" style="display: block; max-width: 260px; height: auto; border-radius: 8px;">
       <p style="color: #38bdf8; font-weight: bold; font-size: 13px; margin: 8px 0 0 0;">[ FRONT SIDE ]</p>
     </td>
     <td width="50%" align="center" valign="top" style="background: #0f172a; padding: 20px; border-radius: 0 0 12px 0;">
-      <img src="PASTE_PRESS_BACK_IMAGE_URL" alt="Press Reporter ID Card Back" width="100%" style="display: block; max-width: 260px; height: auto; border-radius: 8px;">
+      <img src="https://github.com/user-attachments/assets/d6c8f3a0-b1e5-41d2-b5a0-2804b900814d" alt="Press Reporter ID Card Back" width="100%" style="display: block; max-width: 260px; height: auto; border-radius: 8px;">
       <p style="color: #38bdf8; font-weight: bold; font-size: 13px; margin: 8px 0 0 0;">[ BACK SIDE ]</p>
     </td>
   </tr>
   <tr><td colspan="2" style="height: 20px; border: none;"></td></tr>
 
-  <!-- TEMPLATE 6: Horizontal Student & 3x4 Event Badge -->
+  <!-- TEMPLATE 6: Additional Office / Corporate Layout -->
   <tr>
     <td colspan="2" style="background: #1e293b; padding: 15px; border-radius: 12px 12px 0 0; text-align: center;">
-      <h3 style="color: #f8fafc; margin: 0;">6. Horizontal Student &amp; 3x4 Event Badge (Front &amp; Back View)</h3>
-      <p style="color: #94a3b8; font-size: 13px; margin: 5px 0 0 0;">Flexible horizontal orientation and large event badge style perfect for university seminars, exhibitions, conferences, and visitor pass management.</p>
+      <h3 style="color: #f8fafc; margin: 0;">6. Advanced Corporate &amp; Event Badge Layout (Front &amp; Back View)</h3>
+      <p style="color: #94a3b8; font-size: 13px; margin: 5px 0 0 0;">Flexible alternative orientation layout ideal for corporate branches, university seminars, exhibitions, and visitor pass management.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center" valign="top" style="background: #0f172a; padding: 20px; border-radius: 0 0 0 12px;">
-      <img src="PASTE_EVENT_FRONT_IMAGE_URL" alt="Event Badge Front" width="100%" style="display: block; max-width: 260px; height: auto; border-radius: 8px;">
+      <img src="https://github.com/user-attachments/assets/9fafb68f-b880-4912-9bc9-52315aeebea5" alt="Event Badge Front" width="100%" style="display: block; max-width: 260px; height: auto; border-radius: 8px;">
       <p style="color: #38bdf8; font-weight: bold; font-size: 13px; margin: 8px 0 0 0;">[ FRONT SIDE ]</p>
     </td>
     <td width="50%" align="center" valign="top" style="background: #0f172a; padding: 20px; border-radius: 0 0 12px 0;">
-      <img src="PASTE_EVENT_BACK_IMAGE_URL" alt="Event Badge Back" width="100%" style="display: block; max-width: 260px; height: auto; border-radius: 8px;">
+      <img src="https://github.com/user-attachments/assets/3e82a1d5-4588-43bd-a9a2-be5c60709a4e" alt="Event Badge Back" width="100%" style="display: block; max-width: 260px; height: auto; border-radius: 8px;">
       <p style="color: #38bdf8; font-weight: bold; font-size: 13px; margin: 8px 0 0 0;">[ BACK SIDE ]</p>
     </td>
   </tr>
 
 </table>
-
 <hr>
 
 <h2>🛠️ Advanced Live ID Card Layout Builder Features</h2>
