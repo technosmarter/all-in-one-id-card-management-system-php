@@ -1,7 +1,8 @@
 <div align="center">
   <h1>All-in-One ID Card Management System in PHP MySQL – Bulk ID Card Generator &amp; QR Verification Script</h1>
   <p><strong>A Complete Self-Hosted Student, Employee &amp; Organization ID Card Maker Platform Featuring Live Layout Builder, Bulk CSV Import, Batch PDF Export &amp; Real-Time QR/Barcode Verification in PHP &amp; MySQL</strong></p>
-  
+
+
   <p>
     <a href="https://technosmarter.com/item/universal-id-card-management-system-in-php"><strong>📥 Download Complete Source Code</strong></a> &nbsp;|&nbsp; 
     <a href="https://technosmarter.com/item/universal-id-card-management-system-in-php"><strong>🌐 Live Platform Demo</strong></a> &nbsp;|&nbsp; 
@@ -13,7 +14,7 @@
 <hr>
 
 <!-- TOP BANNER & FEATURE SCREENSHOTS -->
-<img width="1672" height="941" alt="All-in-One ID Card Management System in PHP MySQL Hero Banner" src="PASTE_HERO_BANNER_IMAGE_URL_HERE" />
+<img width="1672" height="941" alt="All-in-One ID Card Management System in PHP MySQL Hero Banner" src="https://github.com/user-attachments/assets/d540a868-29a8-493a-b27f-e8b066d010fb" />
 <img width="1280" height="720" alt="ID Card Templates and Live Layout Builder in PHP" src="PASTE_BUILDER_IMAGE_URL_HERE" />
 <img width="1280" height="720" alt="Bulk ID Card PDF Printing and QR Code Verification" src="PASTE_BULK_PRINT_IMAGE_URL_HERE" />
 
