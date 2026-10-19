@@ -15,7 +15,9 @@
 
 <!-- TOP BANNER & FEATURE SCREENSHOTS -->
 <img width="1672" height="941" alt="All-in-One ID Card Management System in PHP MySQL Hero Banner" src="https://github.com/user-attachments/assets/d540a868-29a8-493a-b27f-e8b066d010fb" />
-<img width="1280" height="720" alt="ID Card Templates and Live Layout Builder in PHP" src="PASTE_BUILDER_IMAGE_URL_HERE" />
+
+
+<img width="1280" height="720" alt="ID Card Templates and Live Layout Builder in PHP" src="https://github.com/user-attachments/assets/9af63300-8a4d-49ab-96bd-b6a9ba061c5b" />
 <img width="1280" height="720" alt="Bulk ID Card PDF Printing and QR Code Verification" src="PASTE_BULK_PRINT_IMAGE_URL_HERE" />
 
 <hr>
