@@ -47,53 +47,121 @@
 <h2>🪪 6 Multi-Industry ID Card Templates </h2>
 <p>This <strong>ID Card Management System in PHP MySQL</strong> fully supports multiple card orientations, including standard CR80 Vertical, CR80 Horizontal, and large 3x4 Inch event badge layouts. Below is a showcase of 6 industry-ready templates created with the platform (displayed 2 cards per row):</p>
 
-
-
-<!-- 2-COLUMN CLEAN TABLE FOR 6 ID CARD TEMPLATES -->
 <table width="100%" cellspacing="0" cellpadding="15" style="border-collapse: collapse; border: none;">
-  <!-- ROW 1: Card 1 & Card 2 -->
-  <tr>
-    <td width="50%" align="center" valign="top" style="border: none; background: #0f172a; padding: 20px; border-radius: 12px;">
-      <img src="https://github.com/user-attachments/assets/d8aa0c1b-0530-4d54-924b-02a134787e8e" alt="School and College Student ID Card Template in PHP" width="100%" style="display: block; max-width: 340px; height: auto; border-radius: 8px;">
-      <h3 style="color: #f8fafc; margin: 12px 0 4px 0;">1. School &amp; Student ID Card</h3>
-      <p style="color: #94a3b8; font-size: 14px; margin: 0;">Tailored for schools, colleges, and training institutes featuring admission numbers, class details, date of birth, blood group, barcode, and QR verification.</p>
-    </td>
-    <td width="50%" align="center" valign="top" style="border: none; background: #0f172a; padding: 20px; border-radius: 12px;">
-      <img src="PASTE_OFFICE_ID_CARD_IMAGE_URL" alt="Corporate Office and Employee ID Card Template in PHP" width="100%" style="display: block; max-width: 340px; height: auto; border-radius: 8px;">
-      <h3 style="color: #f8fafc; margin: 12px 0 4px 0;">2. Corporate Office &amp; Employee ID Card</h3>
-      <p style="color: #94a3b8; font-size: 14px; margin: 0;">Designed for corporate firms and IT businesses showcasing employee IDs, designations, departments, branch offices, and secure QR/barcode features.</p>
-    </td>
-  </tr>
-  <tr><td colspan="2" style="height: 15px; border: none;"></td></tr>
 
-  <!-- ROW 2: Card 3 & Card 4 -->
+  <!-- TEMPLATE 1: School & Student ID Card -->
   <tr>
-    <td width="50%" align="center" valign="top" style="border: none; background: #0f172a; padding: 20px; border-radius: 12px;">
-      <img src="PASTE_HOSPITAL_ID_CARD_IMAGE_URL" alt="Hospital and Medical Staff Horizontal ID Card Template" width="100%" style="display: block; max-width: 340px; height: auto; border-radius: 8px;">
-      <h3 style="color: #f8fafc; margin: 12px 0 4px 0;">3. Hospital, Doctor &amp; Clinic ID Card</h3>
-      <p style="color: #94a3b8; font-size: 14px; margin: 0;">Professional horizontal layout built for medical staff, doctors, and nurses displaying specializations, employee IDs, and emergency contact instructions.</p>
-    </td>
-    <td width="50%" align="center" valign="top" style="border: none; background: #0f172a; padding: 20px; border-radius: 12px;">
-      <img src="PASTE_GYM_ID_CARD_IMAGE_URL" alt="Gym and Fitness Club Membership ID Card Template" width="100%" style="display: block; max-width: 340px; height: auto; border-radius: 8px;">
-      <h3 style="color: #f8fafc; margin: 12px 0 4px 0;">4. Gym &amp; Fitness Membership Card</h3>
-      <p style="color: #94a3b8; font-size: 14px; margin: 0;">Sleek 3x4 inch badge format designed for fitness centers and sports clubs highlighting membership IDs, VIP plan tiers, timings, and expiry dates.</p>
+    <td colspan="2" style="background: #1e293b; padding: 15px; border-radius: 12px 12px 0 0; text-align: center;">
+      <h3 style="color: #f8fafc; margin: 0;">1. School &amp; Student ID Card (Front &amp; Back View)</h3>
+      <p style="color: #94a3b8; font-size: 13px; margin: 5px 0 0 0;">Tailored for schools, colleges, and training institutes featuring admission numbers, class details, date of birth, blood group, barcode, and QR verification.</p>
     </td>
   </tr>
-  <tr><td colspan="2" style="height: 15px; border: none;"></td></tr>
+  <tr>
+    <td width="50%" align="center" valign="top" style="background: #0f172a; padding: 20px; border-radius: 0 0 0 12px;">
+      <img src="https://github.com/user-attachments/assets/d8aa0c1b-0530-4d54-924b-02a134787e8e" alt="School Student ID Card Front" width="100%" style="display: block; max-width: 260px; height: auto; border-radius: 8px;">
+      <p style="color: #38bdf8; font-weight: bold; font-size: 13px; margin: 8px 0 0 0;">[ FRONT SIDE ]</p>
+    </td>
+    <td width="50%" align="center" valign="top" style="background: #0f172a; padding: 20px; border-radius: 0 0 12px 0;">
+      <img src="PASTE_SCHOOL_BACK_IMAGE_URL" alt="School Student ID Card Back" width="100%" style="display: block; max-width: 260px; height: auto; border-radius: 8px;">
+      <p style="color: #38bdf8; font-weight: bold; font-size: 13px; margin: 8px 0 0 0;">[ BACK SIDE ]</p>
+    </td>
+  </tr>
+  <tr><td colspan="2" style="height: 20px; border: none;"></td></tr>
 
-  <!-- ROW 3: Card 5 & Card 6 -->
+  <!-- TEMPLATE 2: Corporate Office & Employee ID Card -->
   <tr>
-    <td width="50%" align="center" valign="top" style="border: none; background: #0f172a; padding: 20px; border-radius: 12px;">
-      <img src="PASTE_PRESS_ID_CARD_IMAGE_URL" alt="Press and Media Reporter ID Card Template in PHP" width="100%" style="display: block; max-width: 340px; height: auto; border-radius: 8px;">
-      <h3 style="color: #f8fafc; margin: 12px 0 4px 0;">5. Press &amp; Media Reporter ID Card</h3>
-      <p style="color: #94a3b8; font-size: 14px; margin: 0;">High-credibility press card layout for journalists and media agencies featuring press credentials, RNI numbers, and instant scanner authentication.</p>
-    </td>
-    <td width="50%" align="center" valign="top" style="border: none; background: #0f172a; padding: 20px; border-radius: 12px;">
-      <img src="PASTE_STUDENT_HORIZONTAL_OR_3X4_IMAGE_URL" alt="Horizontal Student ID Card and 3x4 Event Badge Template" width="100%" style="display: block; max-width: 340px; height: auto; border-radius: 8px;">
-      <h3 style="color: #f8fafc; margin: 12px 0 4px 0;">6. Horizontal Student &amp; 3x4 Event Badge</h3>
-      <p style="color: #94a3b8; font-size: 14px; margin: 0;">Flexible horizontal orientation and large event badge style perfect for university seminars, exhibitions, conferences, and visitor passes.</p>
+    <td colspan="2" style="background: #1e293b; padding: 15px; border-radius: 12px 12px 0 0; text-align: center;">
+      <h3 style="color: #f8fafc; margin: 0;">2. Corporate Office &amp; Employee ID Card (Front &amp; Back View)</h3>
+      <p style="color: #94a3b8; font-size: 13px; margin: 5px 0 0 0;">Designed for corporate firms and IT businesses showcasing employee IDs, designations, departments, branch offices, and secure QR/barcode features.</p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" align="center" valign="top" style="background: #0f172a; padding: 20px; border-radius: 0 0 0 12px;">
+      <img src="PASTE_OFFICE_FRONT_IMAGE_URL" alt="Corporate Employee ID Card Front" width="100%" style="display: block; max-width: 260px; height: auto; border-radius: 8px;">
+      <p style="color: #38bdf8; font-weight: bold; font-size: 13px; margin: 8px 0 0 0;">[ FRONT SIDE ]</p>
+    </td>
+    <td width="50%" align="center" valign="top" style="background: #0f172a; padding: 20px; border-radius: 0 0 12px 0;">
+      <img src="PASTE_OFFICE_BACK_IMAGE_URL" alt="Corporate Employee ID Card Back" width="100%" style="display: block; max-width: 260px; height: auto; border-radius: 8px;">
+      <p style="color: #38bdf8; font-weight: bold; font-size: 13px; margin: 8px 0 0 0;">[ BACK SIDE ]</p>
+    </td>
+  </tr>
+  <tr><td colspan="2" style="height: 20px; border: none;"></td></tr>
+
+  <!-- TEMPLATE 3: Hospital, Doctor & Clinic ID Card -->
+  <tr>
+    <td colspan="2" style="background: #1e293b; padding: 15px; border-radius: 12px 12px 0 0; text-align: center;">
+      <h3 style="color: #f8fafc; margin: 0;">3. Hospital, Doctor &amp; Clinic ID Card (Front &amp; Back View)</h3>
+      <p style="color: #94a3b8; font-size: 13px; margin: 5px 0 0 0;">Professional horizontal layout built for medical staff, doctors, and nurses displaying specializations, employee IDs, and emergency contact instructions.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top" style="background: #0f172a; padding: 20px; border-radius: 0 0 0 12px;">
+      <img src="PASTE_HOSPITAL_FRONT_IMAGE_URL" alt="Hospital Doctor ID Card Front" width="100%" style="display: block; max-width: 260px; height: auto; border-radius: 8px;">
+      <p style="color: #38bdf8; font-weight: bold; font-size: 13px; margin: 8px 0 0 0;">[ FRONT SIDE ]</p>
+    </td>
+    <td width="50%" align="center" valign="top" style="background: #0f172a; padding: 20px; border-radius: 0 0 12px 0;">
+      <img src="PASTE_HOSPITAL_BACK_IMAGE_URL" alt="Hospital Doctor ID Card Back" width="100%" style="display: block; max-width: 260px; height: auto; border-radius: 8px;">
+      <p style="color: #38bdf8; font-weight: bold; font-size: 13px; margin: 8px 0 0 0;">[ BACK SIDE ]</p>
+    </td>
+  </tr>
+  <tr><td colspan="2" style="height: 20px; border: none;"></td></tr>
+
+  <!-- TEMPLATE 4: Gym & Fitness Membership Card -->
+  <tr>
+    <td colspan="2" style="background: #1e293b; padding: 15px; border-radius: 12px 12px 0 0; text-align: center;">
+      <h3 style="color: #f8fafc; margin: 0;">4. Gym &amp; Fitness Membership Card (Front &amp; Back View)</h3>
+      <p style="color: #94a3b8; font-size: 13px; margin: 5px 0 0 0;">Sleek 3x4 inch badge format designed for fitness centers and sports clubs highlighting membership IDs, VIP plan tiers, timings, and expiry dates.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top" style="background: #0f172a; padding: 20px; border-radius: 0 0 0 12px;">
+      <img src="PASTE_GYM_FRONT_IMAGE_URL" alt="Gym Membership Card Front" width="100%" style="display: block; max-width: 260px; height: auto; border-radius: 8px;">
+      <p style="color: #38bdf8; font-weight: bold; font-size: 13px; margin: 8px 0 0 0;">[ FRONT SIDE ]</p>
+    </td>
+    <td width="50%" align="center" valign="top" style="background: #0f172a; padding: 20px; border-radius: 0 0 12px 0;">
+      <img src="PASTE_GYM_BACK_IMAGE_URL" alt="Gym Membership Card Back" width="100%" style="display: block; max-width: 260px; height: auto; border-radius: 8px;">
+      <p style="color: #38bdf8; font-weight: bold; font-size: 13px; margin: 8px 0 0 0;">[ BACK SIDE ]</p>
+    </td>
+  </tr>
+  <tr><td colspan="2" style="height: 20px; border: none;"></td></tr>
+
+  <!-- TEMPLATE 5: Press & Media Reporter ID Card -->
+  <tr>
+    <td colspan="2" style="background: #1e293b; padding: 15px; border-radius: 12px 12px 0 0; text-align: center;">
+      <h3 style="color: #f8fafc; margin: 0;">5. Press &amp; Media Reporter ID Card (Front &amp; Back View)</h3>
+      <p style="color: #94a3b8; font-size: 13px; margin: 5px 0 0 0;">High-credibility press card layout for journalists and media agencies featuring press credentials, RNI numbers, and instant scanner authentication.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top" style="background: #0f172a; padding: 20px; border-radius: 0 0 0 12px;">
+      <img src="PASTE_PRESS_FRONT_IMAGE_URL" alt="Press Reporter ID Card Front" width="100%" style="display: block; max-width: 260px; height: auto; border-radius: 8px;">
+      <p style="color: #38bdf8; font-weight: bold; font-size: 13px; margin: 8px 0 0 0;">[ FRONT SIDE ]</p>
+    </td>
+    <td width="50%" align="center" valign="top" style="background: #0f172a; padding: 20px; border-radius: 0 0 12px 0;">
+      <img src="PASTE_PRESS_BACK_IMAGE_URL" alt="Press Reporter ID Card Back" width="100%" style="display: block; max-width: 260px; height: auto; border-radius: 8px;">
+      <p style="color: #38bdf8; font-weight: bold; font-size: 13px; margin: 8px 0 0 0;">[ BACK SIDE ]</p>
+    </td>
+  </tr>
+  <tr><td colspan="2" style="height: 20px; border: none;"></td></tr>
+
+  <!-- TEMPLATE 6: Horizontal Student & 3x4 Event Badge -->
+  <tr>
+    <td colspan="2" style="background: #1e293b; padding: 15px; border-radius: 12px 12px 0 0; text-align: center;">
+      <h3 style="color: #f8fafc; margin: 0;">6. Horizontal Student &amp; 3x4 Event Badge (Front &amp; Back View)</h3>
+      <p style="color: #94a3b8; font-size: 13px; margin: 5px 0 0 0;">Flexible horizontal orientation and large event badge style perfect for university seminars, exhibitions, conferences, and visitor pass management.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top" style="background: #0f172a; padding: 20px; border-radius: 0 0 0 12px;">
+      <img src="PASTE_EVENT_FRONT_IMAGE_URL" alt="Event Badge Front" width="100%" style="display: block; max-width: 260px; height: auto; border-radius: 8px;">
+      <p style="color: #38bdf8; font-weight: bold; font-size: 13px; margin: 8px 0 0 0;">[ FRONT SIDE ]</p>
+    </td>
+    <td width="50%" align="center" valign="top" style="background: #0f172a; padding: 20px; border-radius: 0 0 12px 0;">
+      <img src="PASTE_EVENT_BACK_IMAGE_URL" alt="Event Badge Back" width="100%" style="display: block; max-width: 260px; height: auto; border-radius: 8px;">
+      <p style="color: #38bdf8; font-weight: bold; font-size: 13px; margin: 8px 0 0 0;">[ BACK SIDE ]</p>
+    </td>
+  </tr>
+
 </table>
 
 <hr>
