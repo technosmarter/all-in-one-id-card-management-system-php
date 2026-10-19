@@ -50,114 +50,114 @@
 
   <!-- TEMPLATE 1: School & Student ID Card (CR80 Vertical) -->
   <tr>
-    <td colspan="2" style="background: #1e293b; padding: 15px; border-radius: 12px 12px 0 0; text-align: center;">
-      <h3 style="color: #f8fafc; margin: 0;">1. School &amp; Student ID Card (CR80 Vertical View)</h3>
-      <p style="color: #94a3b8; font-size: 13px; margin: 5px 0 0 0;">Tailored for schools, colleges, and training institutes featuring admission numbers, class details, date of birth, blood group, barcode, and QR verification.</p>
+    <td colspan="2" style="background: #1e293b; padding: 12px; border-radius: 12px 12px 0 0; text-align: center;">
+      <h3 style="color: #f8fafc; margin: 0; font-size: 16px;">1. School &amp; Student ID Card (Front &amp; Back View)</h3>
+      <p style="color: #94a3b8; font-size: 12px; margin: 4px 0 0 0;">Tailored for schools, colleges, and training institutes with admission numbers, class details, barcode, and QR verification.</p>
     </td>
   </tr>
   <tr>
-    <td width="50%" align="center" valign="top" style="background: #0f172a; padding: 20px; border-radius: 0 0 0 12px;">
-      <img src="https://github.com/user-attachments/assets/d8aa0c1b-0530-4d54-924b-02a134787e8e" alt="School Student ID Card Front" width="100%" style="display: block; max-width: 180px; height: auto; border-radius: 6px; box-shadow: 0 4px 10px rgba(0,0,0,0.3);">
-      <p style="color: #38bdf8; font-weight: bold; font-size: 13px; margin: 10px 0 0 0;">[ FRONT SIDE ]</p>
+    <td width="50%" align="center" valign="top" style="background: #0f172a; padding: 15px; border-radius: 0 0 0 12px;">
+      <img src="https://github.com/user-attachments/assets/d8aa0c1b-0530-4d54-924b-02a134787e8e" alt="School Student ID Card Front" width="135" style="display: block; height: auto; border-radius: 6px; box-shadow: 0 4px 12px rgba(0,0,0,0.4);">
+      <p style="color: #38bdf8; font-weight: bold; font-size: 12px; margin: 8px 0 0 0;">[ FRONT ]</p>
     </td>
-    <td width="50%" align="center" valign="top" style="background: #0f172a; padding: 20px; border-radius: 0 0 12px 0;">
-      <img src="https://github.com/user-attachments/assets/98696d30-d7e1-44a1-b9bd-40a670d4b98d" alt="School Student ID Card Back" width="100%" style="display: block; max-width: 180px; height: auto; border-radius: 6px; box-shadow: 0 4px 10px rgba(0,0,0,0.3);">
-      <p style="color: #38bdf8; font-weight: bold; font-size: 13px; margin: 10px 0 0 0;">[ BACK SIDE ]</p>
+    <td width="50%" align="center" valign="top" style="background: #0f172a; padding: 15px; border-radius: 0 0 12px 0;">
+      <img src="https://github.com/user-attachments/assets/98696d30-d7e1-44a1-b9bd-40a670d4b98d" alt="School Student ID Card Back" width="135" style="display: block; height: auto; border-radius: 6px; box-shadow: 0 4px 12px rgba(0,0,0,0.4);">
+      <p style="color: #38bdf8; font-weight: bold; font-size: 12px; margin: 8px 0 0 0;">[ BACK ]</p>
     </td>
   </tr>
-  <tr><td colspan="2" style="height: 20px; border: none;"></td></tr>
+  <tr><td colspan="2" style="height: 15px; border: none;"></td></tr>
 
   <!-- TEMPLATE 2: Corporate Office & Employee ID Card (CR80 Vertical) -->
   <tr>
-    <td colspan="2" style="background: #1e293b; padding: 15px; border-radius: 12px 12px 0 0; text-align: center;">
-      <h3 style="color: #f8fafc; margin: 0;">2. Corporate Office &amp; Employee ID Card (CR80 Vertical View)</h3>
-      <p style="color: #94a3b8; font-size: 13px; margin: 5px 0 0 0;">Designed for corporate firms and IT businesses showcasing employee IDs, designations, departments, branch offices, and secure QR/barcode features.</p>
+    <td colspan="2" style="background: #1e293b; padding: 12px; border-radius: 12px 12px 0 0; text-align: center;">
+      <h3 style="color: #f8fafc; margin: 0; font-size: 16px;">2. Corporate Office &amp; Employee ID Card (Front &amp; Back View)</h3>
+      <p style="color: #94a3b8; font-size: 12px; margin: 4px 0 0 0;">Designed for corporate firms and IT businesses showcasing employee IDs, designations, departments, and secure QR features.</p>
     </td>
   </tr>
   <tr>
-    <td width="50%" align="center" valign="top" style="background: #0f172a; padding: 20px; border-radius: 0 0 0 12px;">
-      <img src="https://github.com/user-attachments/assets/b8216909-e28d-40f3-81f1-b15c4cf77d64" alt="Corporate Employee ID Card Front" width="100%" style="display: block; max-width: 180px; height: auto; border-radius: 6px; box-shadow: 0 4px 10px rgba(0,0,0,0.3);">
-      <p style="color: #38bdf8; font-weight: bold; font-size: 13px; margin: 10px 0 0 0;">[ FRONT SIDE ]</p>
+    <td width="50%" align="center" valign="top" style="background: #0f172a; padding: 15px; border-radius: 0 0 0 12px;">
+      <img src="https://github.com/user-attachments/assets/b8216909-e28d-40f3-81f1-b15c4cf77d64" alt="Corporate Employee ID Card Front" width="135" style="display: block; height: auto; border-radius: 6px; box-shadow: 0 4px 12px rgba(0,0,0,0.4);">
+      <p style="color: #38bdf8; font-weight: bold; font-size: 12px; margin: 8px 0 0 0;">[ FRONT ]</p>
     </td>
-    <td width="50%" align="center" valign="top" style="background: #0f172a; padding: 20px; border-radius: 0 0 12px 0;">
-      <img src="https://github.com/user-attachments/assets/ea18db1d-5164-40fa-9c69-512c72dc73ab" alt="Corporate Employee ID Card Back" width="100%" style="display: block; max-width: 180px; height: auto; border-radius: 6px; box-shadow: 0 4px 10px rgba(0,0,0,0.3);">
-      <p style="color: #38bdf8; font-weight: bold; font-size: 13px; margin: 10px 0 0 0;">[ BACK SIDE ]</p>
+    <td width="50%" align="center" valign="top" style="background: #0f172a; padding: 15px; border-radius: 0 0 12px 0;">
+      <img src="https://github.com/user-attachments/assets/ea18db1d-5164-40fa-9c69-512c72dc73ab" alt="Corporate Employee ID Card Back" width="135" style="display: block; height: auto; border-radius: 6px; box-shadow: 0 4px 12px rgba(0,0,0,0.4);">
+      <p style="color: #38bdf8; font-weight: bold; font-size: 12px; margin: 8px 0 0 0;">[ BACK ]</p>
     </td>
   </tr>
-  <tr><td colspan="2" style="height: 20px; border: none;"></td></tr>
+  <tr><td colspan="2" style="height: 15px; border: none;"></td></tr>
 
   <!-- TEMPLATE 3: Hospital, Doctor & Clinic ID Card (CR80 Horizontal) -->
   <tr>
-    <td colspan="2" style="background: #1e293b; padding: 15px; border-radius: 12px 12px 0 0; text-align: center;">
-      <h3 style="color: #f8fafc; margin: 0;">3. Hospital, Doctor &amp; Clinic ID Card (CR80 Horizontal View)</h3>
-      <p style="color: #94a3b8; font-size: 13px; margin: 5px 0 0 0;">Professional horizontal layout built for medical staff, doctors, and nurses displaying specializations, employee IDs, and emergency contact instructions.</p>
+    <td colspan="2" style="background: #1e293b; padding: 12px; border-radius: 12px 12px 0 0; text-align: center;">
+      <h3 style="color: #f8fafc; margin: 0; font-size: 16px;">3. Hospital, Doctor &amp; Clinic ID Card (Front &amp; Back View)</h3>
+      <p style="color: #94a3b8; font-size: 12px; margin: 4px 0 0 0;">Professional horizontal layout built for medical staff, doctors, and nurses displaying specializations and emergency instructions.</p>
     </td>
   </tr>
   <tr>
-    <td width="50%" align="center" valign="top" style="background: #0f172a; padding: 20px; border-radius: 0 0 0 12px;">
-      <img src="https://github.com/user-attachments/assets/e178b4ee-11b4-469f-9aea-140772b6b3e6" alt="Hospital Doctor ID Card Front" width="100%" style="display: block; max-width: 260px; height: auto; border-radius: 6px; box-shadow: 0 4px 10px rgba(0,0,0,0.3);">
-      <p style="color: #38bdf8; font-weight: bold; font-size: 13px; margin: 10px 0 0 0;">[ FRONT SIDE ]</p>
+    <td width="50%" align="center" valign="top" style="background: #0f172a; padding: 15px; border-radius: 0 0 0 12px;">
+      <img src="https://github.com/user-attachments/assets/e178b4ee-11b4-469f-9aea-140772b6b3e6" alt="Hospital Doctor ID Card Front" width="180" style="display: block; height: auto; border-radius: 6px; box-shadow: 0 4px 12px rgba(0,0,0,0.4);">
+      <p style="color: #38bdf8; font-weight: bold; font-size: 12px; margin: 8px 0 0 0;">[ FRONT ]</p>
     </td>
-    <td width="50%" align="center" valign="top" style="background: #0f172a; padding: 20px; border-radius: 0 0 12px 0;">
-      <img src="https://github.com/user-attachments/assets/93a8cd9d-2de3-420e-b0ab-48048bdfd413" alt="Hospital Doctor ID Card Back" width="100%" style="display: block; max-width: 260px; height: auto; border-radius: 6px; box-shadow: 0 4px 10px rgba(0,0,0,0.3);">
-      <p style="color: #38bdf8; font-weight: bold; font-size: 13px; margin: 10px 0 0 0;">[ BACK SIDE ]</p>
+    <td width="50%" align="center" valign="top" style="background: #0f172a; padding: 15px; border-radius: 0 0 12px 0;">
+      <img src="https://github.com/user-attachments/assets/93a8cd9d-2de3-420e-b0ab-48048bdfd413" alt="Hospital Doctor ID Card Back" width="180" style="display: block; height: auto; border-radius: 6px; box-shadow: 0 4px 12px rgba(0,0,0,0.4);">
+      <p style="color: #38bdf8; font-weight: bold; font-size: 12px; margin: 8px 0 0 0;">[ BACK ]</p>
     </td>
   </tr>
-  <tr><td colspan="2" style="height: 20px; border: none;"></td></tr>
+  <tr><td colspan="2" style="height: 15px; border: none;"></td></tr>
 
   <!-- TEMPLATE 4: Gym & Fitness Membership Card (3x4 Inch Badge) -->
   <tr>
-    <td colspan="2" style="background: #1e293b; padding: 15px; border-radius: 12px 12px 0 0; text-align: center;">
-      <h3 style="color: #f8fafc; margin: 0;">4. Gym &amp; Fitness Membership Card (3x4 Inch Badge View)</h3>
-      <p style="color: #94a3b8; font-size: 13px; margin: 5px 0 0 0;">Sleek badge format designed for fitness centers and sports clubs highlighting membership IDs, VIP plan tiers, timings, and expiry dates.</p>
+    <td colspan="2" style="background: #1e293b; padding: 12px; border-radius: 12px 12px 0 0; text-align: center;">
+      <h3 style="color: #f8fafc; margin: 0; font-size: 16px;">4. Gym &amp; Fitness Membership Card (Front &amp; Back View)</h3>
+      <p style="color: #94a3b8; font-size: 12px; margin: 4px 0 0 0;">Sleek badge format designed for fitness centers and sports clubs highlighting membership IDs, VIP plan tiers, and expiry dates.</p>
     </td>
   </tr>
   <tr>
-    <td width="50%" align="center" valign="top" style="background: #0f172a; padding: 20px; border-radius: 0 0 0 12px;">
-      <img src="https://github.com/user-attachments/assets/4c065245-3678-40d6-baad-c16fa45490a7" alt="Gym Membership Card Front" width="100%" style="display: block; max-width: 210px; height: auto; border-radius: 6px; box-shadow: 0 4px 10px rgba(0,0,0,0.3);">
-      <p style="color: #38bdf8; font-weight: bold; font-size: 13px; margin: 10px 0 0 0;">[ FRONT SIDE ]</p>
+    <td width="50%" align="center" valign="top" style="background: #0f172a; padding: 15px; border-radius: 0 0 0 12px;">
+      <img src="https://github.com/user-attachments/assets/4c065245-3678-40d6-baad-c16fa45490a7" alt="Gym Membership Card Front" width="150" style="display: block; height: auto; border-radius: 6px; box-shadow: 0 4px 12px rgba(0,0,0,0.4);">
+      <p style="color: #38bdf8; font-weight: bold; font-size: 12px; margin: 8px 0 0 0;">[ FRONT ]</p>
     </td>
-    <td width="50%" align="center" valign="top" style="background: #0f172a; padding: 20px; border-radius: 0 0 12px 0;">
-      <img src="https://github.com/user-attachments/assets/9c41eca9-be6b-4c0a-b384-9b85e1f978f7" alt="Gym Membership Card Back" width="100%" style="display: block; max-width: 210px; height: auto; border-radius: 6px; box-shadow: 0 4px 10px rgba(0,0,0,0.3);">
-      <p style="color: #38bdf8; font-weight: bold; font-size: 13px; margin: 10px 0 0 0;">[ BACK SIDE ]</p>
+    <td width="50%" align="center" valign="top" style="background: #0f172a; padding: 15px; border-radius: 0 0 12px 0;">
+      <img src="https://github.com/user-attachments/assets/9c41eca9-be6b-4c0a-b384-9b85e1f978f7" alt="Gym Membership Card Back" width="150" style="display: block; height: auto; border-radius: 6px; box-shadow: 0 4px 12px rgba(0,0,0,0.4);">
+      <p style="color: #38bdf8; font-weight: bold; font-size: 12px; margin: 8px 0 0 0;">[ BACK ]</p>
     </td>
   </tr>
-  <tr><td colspan="2" style="height: 20px; border: none;"></td></tr>
+  <tr><td colspan="2" style="height: 15px; border: none;"></td></tr>
 
   <!-- TEMPLATE 5: Press & Media Reporter ID Card (CR80 Vertical) -->
   <tr>
-    <td colspan="2" style="background: #1e293b; padding: 15px; border-radius: 12px 12px 0 0; text-align: center;">
-      <h3 style="color: #f8fafc; margin: 0;">5. Press &amp; Media Reporter ID Card (CR80 Vertical View)</h3>
-      <p style="color: #94a3b8; font-size: 13px; margin: 5px 0 0 0;">High-credibility press card layout for journalists and media agencies featuring press credentials, RNI numbers, and instant scanner authentication.</p>
+    <td colspan="2" style="background: #1e293b; padding: 12px; border-radius: 12px 12px 0 0; text-align: center;">
+      <h3 style="color: #f8fafc; margin: 0; font-size: 16px;">5. Press &amp; Media Reporter ID Card (Front &amp; Back View)</h3>
+      <p style="color: #94a3b8; font-size: 12px; margin: 4px 0 0 0;">High-credibility press card layout for journalists and media agencies featuring press credentials and instant scanner authentication.</p>
     </td>
   </tr>
   <tr>
-    <td width="50%" align="center" valign="top" style="background: #0f172a; padding: 20px; border-radius: 0 0 0 12px;">
-      <img src="https://github.com/user-attachments/assets/84a9e451-37c8-4f73-ad97-30945da26e2f" alt="Press Reporter ID Card Front" width="100%" style="display: block; max-width: 180px; height: auto; border-radius: 6px; box-shadow: 0 4px 10px rgba(0,0,0,0.3);">
-      <p style="color: #38bdf8; font-weight: bold; font-size: 13px; margin: 10px 0 0 0;">[ FRONT SIDE ]</p>
+    <td width="50%" align="center" valign="top" style="background: #0f172a; padding: 15px; border-radius: 0 0 0 12px;">
+      <img src="https://github.com/user-attachments/assets/84a9e451-37c8-4f73-ad97-30945da26e2f" alt="Press Reporter ID Card Front" width="135" style="display: block; height: auto; border-radius: 6px; box-shadow: 0 4px 12px rgba(0,0,0,0.4);">
+      <p style="color: #38bdf8; font-weight: bold; font-size: 12px; margin: 8px 0 0 0;">[ FRONT ]</p>
     </td>
-    <td width="50%" align="center" valign="top" style="background: #0f172a; padding: 20px; border-radius: 0 0 12px 0;">
-      <img src="https://github.com/user-attachments/assets/d6c8f3a0-b1e5-41d2-b5a0-2804b900814d" alt="Press Reporter ID Card Back" width="100%" style="display: block; max-width: 180px; height: auto; border-radius: 6px; box-shadow: 0 4px 10px rgba(0,0,0,0.3);">
-      <p style="color: #38bdf8; font-weight: bold; font-size: 13px; margin: 10px 0 0 0;">[ BACK SIDE ]</p>
+    <td width="50%" align="center" valign="top" style="background: #0f172a; padding: 15px; border-radius: 0 0 12px 0;">
+      <img src="https://github.com/user-attachments/assets/d6c8f3a0-b1e5-41d2-b5a0-2804b900814d" alt="Press Reporter ID Card Back" width="135" style="display: block; height: auto; border-radius: 6px; box-shadow: 0 4px 12px rgba(0,0,0,0.4);">
+      <p style="color: #38bdf8; font-weight: bold; font-size: 12px; margin: 8px 0 0 0;">[ BACK ]</p>
     </td>
   </tr>
-  <tr><td colspan="2" style="height: 20px; border: none;"></td></tr>
+  <tr><td colspan="2" style="height: 15px; border: none;"></td></tr>
 
   <!-- TEMPLATE 6: Advanced Corporate & Event Badge Layout (CR80 Vertical) -->
   <tr>
-    <td colspan="2" style="background: #1e293b; padding: 15px; border-radius: 12px 12px 0 0; text-align: center;">
-      <h3 style="color: #f8fafc; margin: 0;">6. Advanced Corporate &amp; Event Badge Layout (CR80 Vertical View)</h3>
-      <p style="color: #94a3b8; font-size: 13px; margin: 5px 0 0 0;">Flexible alternative orientation layout ideal for corporate branches, university seminars, exhibitions, and visitor pass management.</p>
+    <td colspan="2" style="background: #1e293b; padding: 12px; border-radius: 12px 12px 0 0; text-align: center;">
+      <h3 style="color: #f8fafc; margin: 0; font-size: 16px;">6. Advanced Corporate &amp; Event Badge Layout (Front &amp; Back View)</h3>
+      <p style="color: #94a3b8; font-size: 12px; margin: 4px 0 0 0;">Flexible alternative orientation layout ideal for corporate branches, university seminars, exhibitions, and visitor passes.</p>
     </td>
   </tr>
   <tr>
-    <td width="50%" align="center" valign="top" style="background: #0f172a; padding: 20px; border-radius: 0 0 0 12px;">
-      <img src="https://github.com/user-attachments/assets/9fafb68f-b880-4912-9bc9-52315aeebea5" alt="Event Badge Front" width="100%" style="display: block; max-width: 180px; height: auto; border-radius: 6px; box-shadow: 0 4px 10px rgba(0,0,0,0.3);">
-      <p style="color: #38bdf8; font-weight: bold; font-size: 13px; margin: 10px 0 0 0;">[ FRONT SIDE ]</p>
+    <td width="50%" align="center" valign="top" style="background: #0f172a; padding: 15px; border-radius: 0 0 0 12px;">
+      <img src="https://github.com/user-attachments/assets/9fafb68f-b880-4912-9bc9-52315aeebea5" alt="Event Badge Front" width="135" style="display: block; height: auto; border-radius: 6px; box-shadow: 0 4px 12px rgba(0,0,0,0.4);">
+      <p style="color: #38bdf8; font-weight: bold; font-size: 12px; margin: 8px 0 0 0;">[ FRONT ]</p>
     </td>
-    <td width="50%" align="center" valign="top" style="background: #0f172a; padding: 20px; border-radius: 0 0 12px 0;">
-      <img src="https://github.com/user-attachments/assets/3e82a1d5-4588-43bd-a9a2-be5c60709a4e" alt="Event Badge Back" width="100%" style="display: block; max-width: 180px; height: auto; border-radius: 6px; box-shadow: 0 4px 10px rgba(0,0,0,0.3);">
-      <p style="color: #38bdf8; font-weight: bold; font-size: 13px; margin: 10px 0 0 0;">[ BACK SIDE ]</p>
+    <td width="50%" align="center" valign="top" style="background: #0f172a; padding: 15px; border-radius: 0 0 12px 0;">
+      <img src="https://github.com/user-attachments/assets/3e82a1d5-4588-43bd-a9a2-be5c60709a4e" alt="Event Badge Back" width="135" style="display: block; height: auto; border-radius: 6px; box-shadow: 0 4px 12px rgba(0,0,0,0.4);">
+      <p style="color: #38bdf8; font-weight: bold; font-size: 12px; margin: 8px 0 0 0;">[ BACK ]</p>
     </td>
   </tr>
 
