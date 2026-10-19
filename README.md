@@ -57,11 +57,11 @@
   </tr>
   <tr>
     <td width="50%" align="center" valign="top" style="background: #0f172a; padding: 15px; border-radius: 0 0 0 12px;">
-      <img src="https://github.com/user-attachments/assets/d8aa0c1b-0530-4d54-924b-02a134787e8e" alt="School Student ID Card Front" width="135" style="display: block; height: auto; border-radius: 6px; box-shadow: 0 4px 12px rgba(0,0,0,0.4);">
+      <img src="https://github.com/user-attachments/assets/d8aa0c1b-0530-4d54-924b-02a134787e8e" alt="School Student ID Card Front" width="220" style="display: block; height: auto; border-radius: 6px; box-shadow: 0 4px 12px rgba(0,0,0,0.4);">
       <p style="color: #38bdf8; font-weight: bold; font-size: 12px; margin: 8px 0 0 0;">[ FRONT ]</p>
     </td>
     <td width="50%" align="center" valign="top" style="background: #0f172a; padding: 15px; border-radius: 0 0 12px 0;">
-      <img src="https://github.com/user-attachments/assets/98696d30-d7e1-44a1-b9bd-40a670d4b98d" alt="School Student ID Card Back" width="135" style="display: block; height: auto; border-radius: 6px; box-shadow: 0 4px 12px rgba(0,0,0,0.4);">
+      <img src="https://github.com/user-attachments/assets/98696d30-d7e1-44a1-b9bd-40a670d4b98d" alt="School Student ID Card Back" width="220" style="display: block; height: auto; border-radius: 6px; box-shadow: 0 4px 12px rgba(0,0,0,0.4);">
       <p style="color: #38bdf8; font-weight: bold; font-size: 12px; margin: 8px 0 0 0;">[ BACK ]</p>
     </td>
   </tr>
@@ -76,11 +76,11 @@
   </tr>
   <tr>
     <td width="50%" align="center" valign="top" style="background: #0f172a; padding: 15px; border-radius: 0 0 0 12px;">
-      <img src="https://github.com/user-attachments/assets/b8216909-e28d-40f3-81f1-b15c4cf77d64" alt="Corporate Employee ID Card Front" width="135" style="display: block; height: auto; border-radius: 6px; box-shadow: 0 4px 12px rgba(0,0,0,0.4);">
+      <img src="https://github.com/user-attachments/assets/b8216909-e28d-40f3-81f1-b15c4cf77d64" alt="Corporate Employee ID Card Front" width="220" style="display: block; height: auto; border-radius: 6px; box-shadow: 0 4px 12px rgba(0,0,0,0.4);">
       <p style="color: #38bdf8; font-weight: bold; font-size: 12px; margin: 8px 0 0 0;">[ FRONT ]</p>
     </td>
     <td width="50%" align="center" valign="top" style="background: #0f172a; padding: 15px; border-radius: 0 0 12px 0;">
-      <img src="https://github.com/user-attachments/assets/ea18db1d-5164-40fa-9c69-512c72dc73ab" alt="Corporate Employee ID Card Back" width="135" style="display: block; height: auto; border-radius: 6px; box-shadow: 0 4px 12px rgba(0,0,0,0.4);">
+      <img src="https://github.com/user-attachments/assets/ea18db1d-5164-40fa-9c69-512c72dc73ab" alt="Corporate Employee ID Card Back" width="220" style="display: block; height: auto; border-radius: 6px; box-shadow: 0 4px 12px rgba(0,0,0,0.4);">
       <p style="color: #38bdf8; font-weight: bold; font-size: 12px; margin: 8px 0 0 0;">[ BACK ]</p>
     </td>
   </tr>
@@ -95,11 +95,11 @@
   </tr>
   <tr>
     <td width="50%" align="center" valign="top" style="background: #0f172a; padding: 15px; border-radius: 0 0 0 12px;">
-      <img src="https://github.com/user-attachments/assets/e178b4ee-11b4-469f-9aea-140772b6b3e6" alt="Hospital Doctor ID Card Front" width="180" style="display: block; height: auto; border-radius: 6px; box-shadow: 0 4px 12px rgba(0,0,0,0.4);">
+      <img src="https://github.com/user-attachments/assets/e178b4ee-11b4-469f-9aea-140772b6b3e6" alt="Hospital Doctor ID Card Front" width="290" style="display: block; height: auto; border-radius: 6px; box-shadow: 0 4px 12px rgba(0,0,0,0.4);">
       <p style="color: #38bdf8; font-weight: bold; font-size: 12px; margin: 8px 0 0 0;">[ FRONT ]</p>
     </td>
     <td width="50%" align="center" valign="top" style="background: #0f172a; padding: 15px; border-radius: 0 0 12px 0;">
-      <img src="https://github.com/user-attachments/assets/93a8cd9d-2de3-420e-b0ab-48048bdfd413" alt="Hospital Doctor ID Card Back" width="180" style="display: block; height: auto; border-radius: 6px; box-shadow: 0 4px 12px rgba(0,0,0,0.4);">
+      <img src="https://github.com/user-attachments/assets/93a8cd9d-2de3-420e-b0ab-48048bdfd413" alt="Hospital Doctor ID Card Back" width="290" style="display: block; height: auto; border-radius: 6px; box-shadow: 0 4px 12px rgba(0,0,0,0.4);">
       <p style="color: #38bdf8; font-weight: bold; font-size: 12px; margin: 8px 0 0 0;">[ BACK ]</p>
     </td>
   </tr>
@@ -114,11 +114,11 @@
   </tr>
   <tr>
     <td width="50%" align="center" valign="top" style="background: #0f172a; padding: 15px; border-radius: 0 0 0 12px;">
-      <img src="https://github.com/user-attachments/assets/4c065245-3678-40d6-baad-c16fa45490a7" alt="Gym Membership Card Front" width="150" style="display: block; height: auto; border-radius: 6px; box-shadow: 0 4px 12px rgba(0,0,0,0.4);">
+      <img src="https://github.com/user-attachments/assets/4c065245-3678-40d6-baad-c16fa45490a7" alt="Gym Membership Card Front" width="240" style="display: block; height: auto; border-radius: 6px; box-shadow: 0 4px 12px rgba(0,0,0,0.4);">
       <p style="color: #38bdf8; font-weight: bold; font-size: 12px; margin: 8px 0 0 0;">[ FRONT ]</p>
     </td>
     <td width="50%" align="center" valign="top" style="background: #0f172a; padding: 15px; border-radius: 0 0 12px 0;">
-      <img src="https://github.com/user-attachments/assets/9c41eca9-be6b-4c0a-b384-9b85e1f978f7" alt="Gym Membership Card Back" width="150" style="display: block; height: auto; border-radius: 6px; box-shadow: 0 4px 12px rgba(0,0,0,0.4);">
+      <img src="https://github.com/user-attachments/assets/9c41eca9-be6b-4c0a-b384-9b85e1f978f7" alt="Gym Membership Card Back" width="240" style="display: block; height: auto; border-radius: 6px; box-shadow: 0 4px 12px rgba(0,0,0,0.4);">
       <p style="color: #38bdf8; font-weight: bold; font-size: 12px; margin: 8px 0 0 0;">[ BACK ]</p>
     </td>
   </tr>
@@ -133,11 +133,11 @@
   </tr>
   <tr>
     <td width="50%" align="center" valign="top" style="background: #0f172a; padding: 15px; border-radius: 0 0 0 12px;">
-      <img src="https://github.com/user-attachments/assets/84a9e451-37c8-4f73-ad97-30945da26e2f" alt="Press Reporter ID Card Front" width="135" style="display: block; height: auto; border-radius: 6px; box-shadow: 0 4px 12px rgba(0,0,0,0.4);">
+      <img src="https://github.com/user-attachments/assets/84a9e451-37c8-4f73-ad97-30945da26e2f" alt="Press Reporter ID Card Front" width="220" style="display: block; height: auto; border-radius: 6px; box-shadow: 0 4px 12px rgba(0,0,0,0.4);">
       <p style="color: #38bdf8; font-weight: bold; font-size: 12px; margin: 8px 0 0 0;">[ FRONT ]</p>
     </td>
     <td width="50%" align="center" valign="top" style="background: #0f172a; padding: 15px; border-radius: 0 0 12px 0;">
-      <img src="https://github.com/user-attachments/assets/d6c8f3a0-b1e5-41d2-b5a0-2804b900814d" alt="Press Reporter ID Card Back" width="135" style="display: block; height: auto; border-radius: 6px; box-shadow: 0 4px 12px rgba(0,0,0,0.4);">
+      <img src="https://github.com/user-attachments/assets/d6c8f3a0-b1e5-41d2-b5a0-2804b900814d" alt="Press Reporter ID Card Back" width="220" style="display: block; height: auto; border-radius: 6px; box-shadow: 0 4px 12px rgba(0,0,0,0.4);">
       <p style="color: #38bdf8; font-weight: bold; font-size: 12px; margin: 8px 0 0 0;">[ BACK ]</p>
     </td>
   </tr>
@@ -152,11 +152,11 @@
   </tr>
   <tr>
     <td width="50%" align="center" valign="top" style="background: #0f172a; padding: 15px; border-radius: 0 0 0 12px;">
-      <img src="https://github.com/user-attachments/assets/9fafb68f-b880-4912-9bc9-52315aeebea5" alt="Event Badge Front" width="135" style="display: block; height: auto; border-radius: 6px; box-shadow: 0 4px 12px rgba(0,0,0,0.4);">
+      <img src="https://github.com/user-attachments/assets/9fafb68f-b880-4912-9bc9-52315aeebea5" alt="Event Badge Front" width="220" style="display: block; height: auto; border-radius: 6px; box-shadow: 0 4px 12px rgba(0,0,0,0.4);">
       <p style="color: #38bdf8; font-weight: bold; font-size: 12px; margin: 8px 0 0 0;">[ FRONT ]</p>
     </td>
     <td width="50%" align="center" valign="top" style="background: #0f172a; padding: 15px; border-radius: 0 0 12px 0;">
-      <img src="https://github.com/user-attachments/assets/3e82a1d5-4588-43bd-a9a2-be5c60709a4e" alt="Event Badge Back" width="135" style="display: block; height: auto; border-radius: 6px; box-shadow: 0 4px 12px rgba(0,0,0,0.4);">
+      <img src="https://github.com/user-attachments/assets/3e82a1d5-4588-43bd-a9a2-be5c60709a4e" alt="Event Badge Back" width="220" style="display: block; height: auto; border-radius: 6px; box-shadow: 0 4px 12px rgba(0,0,0,0.4);">
       <p style="color: #38bdf8; font-weight: bold; font-size: 12px; margin: 8px 0 0 0;">[ BACK ]</p>
     </td>
   </tr>
